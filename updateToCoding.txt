@@ -1,0 +1,4 @@
+cd .../repo  //定位至项目文件夹
+git add .
+git commit -m "update" //引号内自己描述
+git push origin master
