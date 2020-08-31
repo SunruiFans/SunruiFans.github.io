@@ -3,12 +3,12 @@ import os
 from pathlib import Path
 
 
-my_dir = '/Users/sangna/SunruiFans/SunruiFans.github.io/assets/img/gallery/Leo'
+my_dir = '/Users/sangna/SunruiFans/SunruiFans.github.io/assets/img/gallery/VelvetCapri729'
 
 files = os.listdir(my_dir) #采用listdir来读取所有文件
-files.sort(reverse=True) #排序
+files.sort(reverse=False) #排序
 
-f = open("Leo.txt", "wt")
+f = open("VelvetCapri729.txt", "wt")
 i = 1
 
 for file_ in files:     #循环读取每个文件名

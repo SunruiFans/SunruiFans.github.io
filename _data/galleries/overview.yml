@@ -37,3 +37,63 @@
     sizes:
     - LiveForThree_logo.JPG
     thumbnail: LiveForThree_logo.JPG
+
+-
+  title: Mintcream_孙芮
+  directory: Mintcream
+  preview:
+    filename: Mintcream_logo.JPG
+    original: Mintcream_logo.JPG
+    sizes:
+    - Mintcream_logo.JPG
+    thumbnail: Mintcream_logo.JPG
+
+-
+  title: SEREIN0729丨孙芮
+  directory: SEREIN0729
+  preview:
+    filename: SEREIN0729_logo.JPG
+    original: SEREIN0729_logo.JPG
+    sizes:
+    - SEREIN0729_logo.JPG
+    thumbnail: SEREIN0729_logo.JPG
+
+-
+  title: Setme_bReath_0729_孙芮
+  directory: Setme_bReath_0729
+  preview:
+    filename: Setme_bReath_0729_孙芮
+    original: Setme_bReath_0729_logo.JPG
+    sizes:
+    - Setme_bReath_0729_logo.JPG
+    thumbnail: Setme_bReath_0729_logo.JPG
+
+-
+  title: Sonambula_孙芮
+  directory: Sonambula
+  preview:
+    filename: Sonambula_logo.JPG
+    original: Sonambula_logo.JPG
+    sizes:
+    - Sonambula_logo.JPG
+    thumbnail: Sonambula_logo.JPG
+
+-
+  title: Uknow_SunRui
+  directory: Uknow_SunRui
+  preview:
+    filename: Uknow_SunRui_logo.JPG
+    original: Uknow_SunRui_logo.JPG
+    sizes:
+    - Uknow_SunRui_logo.JPG
+    thumbnail: Uknow_SunRui_logo.JPG
+
+-
+  title: VelvetCapri729_孙芮
+  directory: VelvetCapri729
+  preview:
+    filename: VelvetCapri729_logo.JPG
+    original: VelvetCapri729_logo.JPG
+    sizes:
+    - VelvetCapri729_logo.JPG
+    thumbnail: VelvetCapri729_logo.JPG
