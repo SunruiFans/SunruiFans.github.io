@@ -1,36 +1,36 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: SunRuiFans' Website
+subtitle: A website for Sun Rui (Three) from SNH48 group.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  A collection of Sunrui's videos, photos and etc.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://SunruiFans.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
-    - text: About Me
+    - text: 关于孙芮 About Rui
       url: /about
-    - text: Blog
+    - text: 辟谣 Refute rumors
       url: /blog
-    - text: Gallery
+    - text: 美图 Photos
       url: /gallery
-    - text: Shop
+    - text: 氪金 Support Rui
       url : /shop
-    - text: Contact Me
+    - text: 联系本站 Contact Me
       url : /contact
-    - text: Styleguide
-      url: /styleguide
-    - text: Get Started
-      url: /get-started
+    #- text: Styleguide
+    #  url: /styleguide
+    # - text: Get Started
+    #  url: /get-started
 
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author: Sun Rui
+author_bio: Hello 大家好，我是SNH48 Team Sii的孙芮。大家可以叫我“三哥”或者“芮哥”。
 author_email: "mail@sujaykundu.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: Hello 大家好，我是SNH48的孙芮。大家可以叫我“芮哥”或者是“三哥”。
 
 author_work_experiences:
             - company_name: Google

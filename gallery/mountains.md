@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Mountains
+title: ExclusiveCamera_孙芮
 ---
 
 {% include gallery-layout.html gallery=site.data.galleries.mountains %}
