@@ -1,0 +1,27 @@
+picture_path: Leo
+preview:
+  filename: 1
+  original: Leo_logo.JPG
+  sizes:
+  - Leo_logo.JPG
+  thumbnail: Leo_logo.JPG
+
+
+pictures:
+- filename: 1
+  original: 20200713 _JaYSMjgAj_2.jpg
+  sizes:
+  - 20200713 _JaYSMjgAj_2.jpg
+  thumbnail: 20200713 _JaYSMjgAj_2的缩略图.jpg
+
+- filename: 2
+  original: 20200729 _JdlOd9Lcn_2.jpg
+  sizes:
+  - 20200729 _JdlOd9Lcn_2.jpg
+  thumbnail: 20200729 _JdlOd9Lcn_2的缩略图.jpg
+
+# - filename: 3
+#   original: 3.jpg
+#   sizes:
+#   - 3.jpg
+#   thumbnail: 3-thumbnail.jpg

@@ -1,9 +1,39 @@
+# -
+#   title: Mountains
+#   directory: mountains
+#   preview:
+#     filename: 1.jpg
+#     original: 1-thumbnail.jpg
+#     sizes:
+#     - 1-thumbnail.jpg
+#     thumbnail: 1-thumbnail.jpg
+
+# -
+#   title: ExclusiveCamera_孙芮
+#   directory: ExclusiveCamera
+#   preview:
+#     filename: 20200821 _JgXXX1ztI_2.jpg
+#     original: 20200821 _JgXXX1ztI_2.jpg
+#     sizes:
+#     - ec_logo.JPG
+#     thumbnail: ec_logo.JPG
+
 -
-  title: Mountains
-  directory: mountains
+  title: Leo狮子座_孙芮
+  directory: Leo
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: 20200816 _JgdWtezcI_3.jpg
+    original: 20200816 _JgdWtezcI_3.jpg
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+    - logo.JPG
+    thumbnail: logo.JPG
+
+# -
+#   title: LiveForThree_孙芮
+#   directory: LiveForThree
+#   preview:
+#     filename: 20200816 _JgdWtezcI_3.jpg
+#     original: 20200816 _JgdWtezcI_3.jpg
+#     sizes:
+#     - LiveForThree_logo.JPG
+#     thumbnail: LiveForThree_logo.JPG

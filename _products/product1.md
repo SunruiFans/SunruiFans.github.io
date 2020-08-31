@@ -1,8 +1,8 @@
 ---
-identifier: john-doe-tshrirt
-name: John Doe Tshirt
-price: 50
-image: /assets/img/products/product1.jpg
+identifier: data_Aug
+name: 8月数据专用链接
+price: 1 起
+image: /assets/img/products/8月日常.PNG
 ---
 
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive reactance, we were able to reproduce the original colours with a 99.99% accuracy.
+用于数据维护
