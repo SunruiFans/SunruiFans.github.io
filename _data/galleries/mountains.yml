@@ -1,23 +1,26 @@
-picture_path: mountains
-preview:
-  filename: 1
-  original: 1.jpg
-  sizes:
-  - 1.jpg
-  thumbnail: 1-thumbnail.jpg
+# picture_path: mountains
+# preview:
+#   filename: 1
+#   original: 1.jpg
+#   sizes:
+#   - 1.jpg
+#   thumbnail: 1.jpg
+
 pictures:
 - filename: 1
   original: 1.jpg
   sizes:
   - 1.jpg
-  thumbnail: 1-thumbnail.jpg
+  thumbnail: /export/1_thumbnail.jpg
+
 - filename: 2
   original: 2.jpg
   sizes:
   - 2.jpg
-  thumbnail: 2-thumbnail.jpg
+  thumbnail: /export/2_thumbnail.jpg
+
 - filename: 3
   original: 3.jpg
   sizes:
   - 3.jpg
-  thumbnail: 3-thumbnail.jpg
+  thumbnail: /export/3_thumbnail.jpg
